@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\json-20230618.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx.base.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx.controls.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx.fxml.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx.graphics.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx.media.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx.swing.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx.web.jar",
+        "e:\\pessoal_caio\\java\\javafx-sdk-21.0.10\\lib\\javafx-swt.jar"
+    ]
+}
